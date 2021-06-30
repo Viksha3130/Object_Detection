@@ -8,4 +8,4 @@
 
 
 ### Yolov4 Object detection Model with darknet.
-Draknet Repository https://github.com/AlexeyAB/darknet
+Draknet Repository: https://github.com/AlexeyAB/darknet
