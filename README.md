@@ -7,5 +7,5 @@
  https://github.com/protocolbuffers/protobuf/releases
 
 
-### Yolov4 Object detection Model with darkenet.
+### Yolov4 Object detection Model with darknet.
 Draknet Repository https://github.com/AlexeyAB/darknet
